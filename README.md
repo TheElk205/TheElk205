@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Ferdinand and I am living in Carinthia, which is the southernmost state in Austria. 
+
+This repository contains my personal projects that I want to share, lots of gamejams, which were all held by the [ITEC University of Klagenfurt](https://www.itec.aau.at/gamejam/), and also my personal blog and website, as they are public anyway.
+
+From a tech perspective, I am interested in building AI applications ✨, data processing pipelines and retrieval systems 🤖, which is unfortunately closed work, but I will try to implement some open source versions as well! I am also interested in all kinds of home automation with Home Assistant, but unfortunately I am missing the time for that lately.
+
+Besides sitting in front of a screen all day, I am a volunteer firefighter 👨‍🚒, owner of a stubborn mixed Shiba-Inu 🐕, that coincidentially looks very much as the emoji, that takes me outdoors on adventures. Yes, that phrasing is correct. She dictates where we are goinng if I don't pay attention.
+
+If you want current news about what I am up to, head to my [blog](https://theelk205.github.io/personal-website/) or [website](https://ferdinand-koeppen.tech) as you won't find me present on any social media. You will maybe find accounts, but I rarely or never use them.
